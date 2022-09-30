@@ -10,18 +10,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+本科毕业于杭州电子科技大学，现保研至中山大学人工智能学院攻读学硕学位。
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total.
+我的主要研究兴趣为自然语言处理与优化算法。
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - 2022.04（在读）*：学术硕士，中山大学，人工智能学院，珠海
+- *2018.09 - 2022.06*：本科，杭州电子科技大学，计算机学院，杭州
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/model.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks (CCF-B)</div><img src='images/model.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Recurrent neural network from adder’s perspective: Carry-lookahead RNN](https://www.sciencedirect.com/science/article/pii/S0893608021003452)
@@ -29,13 +29,16 @@ My research interest includes neural machine translation and computer vision. I 
 **Haowei Jiang**, Feiwei Qin, Jin Cao, Yong Peng, Yanli Shao
 
 [**Project**](https://github.com/WinnieJiangHW/Carry-lookahead_RNN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This work transfers the prior experience from electronics to neural networks, empowering RNNs with parallelism and improving performance. 
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* 国家奖学金
+- *2020.12* 浙江省政府奖学金
+- *2019.12* 浙江省政府奖学金
+- *2022.05* 浙江省优秀毕业生
+- *2021.11* 院“风云人物”暨“刘君”奖学金
 
 # 💬 Assignment Statements
 

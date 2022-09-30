@@ -15,10 +15,6 @@ redirect_from:
 我的主要研究兴趣为自然语言处理与优化算法。
 
 
-# 📖 Educations
-- *2019.06 - 2022.04（在读）*：学术硕士，中山大学，人工智能学院，珠海
-- *2018.09 - 2022.06*：本科，杭州电子科技大学，计算机学院，杭州
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks (CCF-B)</div><img src='images/model.jpg' alt="sym" width="100%"></div></div>
@@ -39,6 +35,10 @@ redirect_from:
 - *2019.12* 浙江省政府奖学金
 - *2022.05* 浙江省优秀毕业生
 - *2021.11* 院“风云人物”暨“刘君”奖学金
+
+# 📖 Educations
+- *2019.06 - 2022.04（在读）*：学术硕士，中山大学，人工智能学院，珠海
+- *2018.09 - 2022.06*：本科，杭州电子科技大学，计算机学院，杭州
 
 # 💬 Assignment Statements
 

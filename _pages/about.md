@@ -21,7 +21,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/model.jpg' alt="sym" width="40%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/model.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Recurrent neural network from adder’s perspective: Carry-lookahead RNN](https://www.sciencedirect.com/science/article/pii/S0893608021003452)
